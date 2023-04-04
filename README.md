@@ -4,8 +4,11 @@ This is the main repo for the Rowan ECE Spring 2023 Class of Space Systems - C&a
 ## GitHub Flow
 
 Run from desired directory:
+
 git init
+
 git clone https://github.com/julianoelk/SpaceSystemsCDH.git
+
 git remote add origin https://github.com/julianoelk/SpaceSystemsCDH.git
 
 (You only have to run those two commands once, on intialization of git directory)
